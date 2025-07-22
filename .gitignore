@@ -1,6 +1,6 @@
 # Ignore Python virtual environment
 venv/
-
+auto_commit_push.sh
 # Ignore log files
 #*.log
 
@@ -10,3 +10,4 @@ __pycache__/
 
 # Ignore system files (optional)
 .DS_Store
+cron.log
