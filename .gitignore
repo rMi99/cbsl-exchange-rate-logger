@@ -2,7 +2,7 @@
 venv/
 
 # Ignore log files
-*.log
+#*.log
 
 # Ignore __pycache__ folders and Python cache files
 __pycache__/
