@@ -474,3 +474,10 @@
 2025-09-26 17:30:02 - 61–90 kWh: LKR 10.0 per kWh, Fixed: LKR 90
 2025-09-26 17:30:02 - 91–120 kWh: LKR 27.75 per kWh, Fixed: LKR 480
 2025-09-26 17:30:02 - 121–180 kWh: LKR 32.0 per kWh, Fixed: LKR 480
+2025-09-27 18:08:53 - Error fetching USD rate: HTTPSConnectionPool(host='www.cbsl.gov.lk', port=443): Max retries exceeded with url: /cbsl_custom/charts/usd/indexsmall.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f748f2f6960>: Failed to resolve 'www.cbsl.gov.lk' ([Errno -3] Temporary failure in name resolution)"))
+2025-09-27 18:08:53 - Electricity Tariff Bands:
+2025-09-27 18:08:53 - 0–30 kWh: LKR 2.5 per kWh, Fixed: LKR 30
+2025-09-27 18:08:53 - 31–60 kWh: LKR 4.85 per kWh, Fixed: LKR 60
+2025-09-27 18:08:53 - 61–90 kWh: LKR 10.0 per kWh, Fixed: LKR 90
+2025-09-27 18:08:53 - 91–120 kWh: LKR 27.75 per kWh, Fixed: LKR 480
+2025-09-27 18:08:53 - 121–180 kWh: LKR 32.0 per kWh, Fixed: LKR 480
